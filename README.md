@@ -12,7 +12,9 @@ Fourth line: n+1 real numbers — probabilities of unsuccessful searches (q[i])
 
 Example
 Keys: 10 20 30 40
+
 P[i]: 0.1 0.2 0.4 0.3
+
 Q[i]: 0.05 0.1 0.05 0.05 0.1
 
 Output Format
